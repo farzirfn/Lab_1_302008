@@ -29,7 +29,7 @@ The Book Reading Time Estimator is a Flutter based mobile application. It design
 # Validation 
 1. Empty Input Check
 2. Numeric Input Check
-3. Positive Number nput Check
+3. Positive Number Input Check
 
 # Authorship Note with signature 
 Muhammad Fariz Irfan Bin Ghazale 302008
