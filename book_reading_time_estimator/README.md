@@ -5,7 +5,7 @@ The Book Reading Time Estimator is a Flutter based mobile application. It design
 
 # IPO Process
 1. User input the number of pages and hours per day
-2. The app will calculate the estimated reading time
+2. When user clicks the calculate button, the app will calculate the estimated reading time
 3. The app will display the estimated reading time
 
 # Widget List Used
@@ -26,10 +26,10 @@ The Book Reading Time Estimator is a Flutter based mobile application. It design
 15. Image.asset()
 16. TextEditingController
 
-# Validation 
-1. Empty Input Check
-2. Numeric Input Check
-3. Positive Number Input Check
+# Validation Approach
+1. Empty Input Check: The apps will check if any textfield is empty or not and the snackbar will be displayed if any textfield is empty.
+2. Numeric Input Check: The apps only accept the numeric input only for textfield. If contains string the snackbar will show the error.
+3. Positive Number Input Check: The apps will check if any textfield is negative number or not and the snackbar will be displayed if any textfield is negative number.
 
 # Authorship Note with signature 
 Muhammad Fariz Irfan Bin Ghazale 302008
